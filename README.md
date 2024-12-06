@@ -7,6 +7,9 @@ This diagram illustrates the sequence of steps in the attack scenario, from embe
 
 ![DLP PoC Sequence Diagram](./pdf_dlp.png)
 
+### POC
+![POC](./result.png)
+
 ## Overview
 
 ### Operations
