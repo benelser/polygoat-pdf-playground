@@ -40,6 +40,7 @@ This diagram illustrates the sequence of steps in the attack scenario, from embe
 ### Detection
 - Monitor file size anomalies and high-entropy data in outbound documents.
 - Detect anomalous repository cloning and PDF generation.
+- git bundling becomes high-risk command
 
 ## Run POC
 ```bash
