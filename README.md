@@ -41,8 +41,7 @@ This diagram illustrates the sequence of steps in the attack scenario, from embe
 - Monitor file size anomalies and high-entropy data in outbound documents.
 - Detect anomalous repository cloning and PDF generation.
 
-## Quick Start
-Simulate the attack using:
+## Run POC
 ```bash
 make poc
 ```
